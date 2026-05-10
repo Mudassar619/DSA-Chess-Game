@@ -1,1 +1,1 @@
-# dsa-Chess-Game
+# DSA-Chess-Game
