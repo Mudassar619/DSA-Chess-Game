@@ -10,10 +10,10 @@ Main features:
 - AI uses priority queue ordering, minimax, alpha-beta pruning, and HashMap board-state caching.
 - Scoreboard and match history saving.
 - Export match report.
-- Tree: Added a Minimax Game Tree panel in the main menu.
+- Tree:Minimax Game Tree panel in the main menu.
   It builds a limited minimax search tree from the current board position.
   Each node shows a possible move, tactical score, and minimax value.
-- Graph: Added a Match History Network panel in the main menu.
+- Graph:Match History Network panel in the main menu.
   It displays players as graph vertices and completed matches as graph edges.
 
 DSA Principals used in this project
