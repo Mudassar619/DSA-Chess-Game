@@ -23,6 +23,8 @@ DSA Principals used in this project
 - Priority Queue: Used for computer move ordering.
 - HashMap: Used for AI board-state caching.
 - Minimax + Alpha-Beta: Used for Hard computer mode.
+- Tree: Used for Visualizing AI Search Process
+- Graph: Used for Match History Network Visualization
 
 Files:
 - src/: Java source files
